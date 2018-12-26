@@ -1,0 +1,17 @@
+.slabtexted .slabtext
+{
+    line-height: normal;
+    display: inline-block;
+    white-space: nowrap;
+    font-family: LeagueGothicRegular, Impact, Charcoal, Arial Black, Gadget, Sans serif;
+    text-transform: uppercase;
+}
+.slabtextinactive .slabtext
+{
+    display: inline;
+    white-space: normal;
+}
+.slabtextdone .slabtext
+{
+    display: block;
+}
